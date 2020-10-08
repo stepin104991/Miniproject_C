@@ -1,4 +1,3 @@
-# Behavior Diagrams
 
 
 
